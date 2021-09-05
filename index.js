@@ -28,3 +28,5 @@ function moveDodgerRight() {
       moveDodgerRight()
     }
   })
+
+  dodger.style.backgroundColor = "#FF69B4";
